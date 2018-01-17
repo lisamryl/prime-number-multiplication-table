@@ -17,3 +17,7 @@ This program prints out a multiplication table of the first N prime numbers. N i
 * Install all requirements (`pip install -r requirements.txt`)
 * Run `python tests.py` (runs unit tests)
 * Run `python prime_number_multiplication_table.py` (prints a multiplication table)
+
+## Sample Output (N = 10)
+
+![Screenshot](Screen Shot 2018-01-16 at 9.16.16 PM.png)
