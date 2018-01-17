@@ -20,4 +20,4 @@ This program prints out a multiplication table of the first N prime numbers. N i
 
 ## Sample Output (N = 10)
 
-![Screenshot](Screen Shot 2018-01-16 at 9.16.16 PM.png)
+![Screenshot](prime-number-multiplication-table/Screen Shot 2018-01-16 at 9.16.16 PM.png)
