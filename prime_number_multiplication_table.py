@@ -22,7 +22,7 @@ def is_prime(number):
         return False
     if number == 2:
         return True
-    # Shortening range to keep function in log(n) time, once the square root is
+    # Shortening range to keep function in sqrt(n) runtime, once the square root is
     # reached, we don't need to keep checking for a prime number
     for divisor in range(2, int(ceil(sqrt(number)) + 1)):
         if (number % divisor == 0):
